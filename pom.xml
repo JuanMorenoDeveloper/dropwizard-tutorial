@@ -7,11 +7,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>ve.com.proitc</groupId>
-    <artifactId>dropwizard-basic</artifactId>
+    <artifactId>dropwizard-tutorial</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>dropwizard-basic</name>
+    <name>dropwizard-tutorial</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
